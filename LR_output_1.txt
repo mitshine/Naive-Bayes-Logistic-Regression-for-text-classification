@@ -1,0 +1,20 @@
+C:\Users\mlassignment2>python37 LR.py ./hw2_train/train ./hw2_test/test 1
+
+Started simulation at 0 seconds
+
+Please wait to compute the HAM and SPAM accuracies...
+
+Total number of training samples        :  463
+Total number of test samples            :  478
+
+--------------------------------------------------
+Accuracy of HAM                         :  97.12 %
+Accuracy of SPAM                        :  88.46 %
+Combined Accuracy of HAM and SPAM       :  94.56 %
+--------------------------------------------------
+
+Current simulation took 24.664204 seconds to complete.
+
+Thank You ! Program ran Successfully.
+
+C:\Users\mlassignment2>

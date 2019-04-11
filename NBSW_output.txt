@@ -1,0 +1,20 @@
+C:\Users\mlassignment2>python37 NBSW.py ./hw2_train/train ./hw2_test/test
+
+Started simulation at 0 seconds
+
+Please wait to compute the HAM and SPAM accuracies...
+
+Length of stopwords list        :  174
+Total number of samples         :  463
+
+--------------------------------------------------
+Accuracy of HAM                         :  94.54 %
+Accuracy of SPAM                        :  96.92 %
+Combined Accuracy of HAM and SPAM       :  95.19 %
+--------------------------------------------------
+
+Current simulation took 0.555535 seconds to complete.
+
+Thank You ! Program ran Successfully.
+
+C:\Users\mlassignment2>
